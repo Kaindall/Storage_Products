@@ -19,4 +19,4 @@ springdoc:
   swagger-ui:
     path: /openapi-ui
 aws:
-  localstack: https://localhost.localstack.cloud:4566
+  localstack: http://localhost:4566

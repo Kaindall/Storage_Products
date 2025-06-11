@@ -1,0 +1,1 @@
+Acesse /openapi-ui para verificar o Swagger da API ou pelo arquivo .json na pasta /docs
